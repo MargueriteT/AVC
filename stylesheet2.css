@@ -167,6 +167,8 @@ main {
     text-decoration: none;
     position: relative;
     top: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
 
 
 }
@@ -217,6 +219,7 @@ main {
     color:#FFFFFF;
     text-decoration: #f58231;
     font-size : 100%;
+    text-transform: uppercase;
 
 }
 
@@ -268,3 +271,5 @@ a img{
  width:100%;
  position:absolute;
 }
+
+
